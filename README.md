@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=LEE&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Building%20universes%2C%20one%20commit%20at%20a%20time&descSize=16&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:12275e,100:1b3b6f&height=220&section=header&text=ZUN&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Building%20universes%2C%20one%20commit%20at%20a%20time&descSize=16&descAlignY=54&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+Engineering+Student+%40+CBNU;AI+%C2%B7+Data+%C2%B7+Web+Development;Turning+ideas+into+running+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4C6EF5&center=true&vCenter=true&width=520&lines=Software+Engineering+Student+%40+CBNU;AI+%C2%B7+Data+%C2%B7+Web+Development;Turning+ideas+into+running+code" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=djkdb&label=VISITORS&color=8B5CF6&style=for-the-badge" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=djkdb&label=VISITORS&color=4C6EF5&style=for-the-badge" alt="visitors" />
 
 </div>
 
@@ -47,7 +47,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 <div align="center">
 
 <a href="https://github.com/djkdb/star-movie">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=djkdb&repo=star-movie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=djkdb&repo=star-movie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C6EF5&icon_color=4C6EF5" />
 </a>
 
 </div>
@@ -91,12 +91,12 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=djkdb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djkdb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=djkdb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C6EF5&icon_color=4C6EF5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djkdb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C6EF5" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=djkdb&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com?user=djkdb&theme=tokyonight&hide_border=true&background=0D1117&ring=4C6EF5&fire=4C6EF5&currStreakLabel=4C6EF5" />
 
 <br/>
 
@@ -104,7 +104,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=djkdb&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=djkdb&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4C6EF5&line=4C6EF5&point=FFFFFF&area=true" width="95%" />
 
 </div>
 
@@ -115,7 +115,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 <div align="center">
 
 <!-- 3D 잔디 — .github/workflows/3d-contrib.yml 이 매일 생성 -->
-<img src="https://raw.githubusercontent.com/djkdb/djkdb/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/djkdb/djkdb/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
 
 <br/>
 
@@ -149,7 +149,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 <div align="right">
 
-[**→ 전체 글 보기**](https://your-blog.tistory.com)
+[**→ 전체 글 보기**](https://satpuru.tistory.com)
 
 </div>
 
@@ -168,7 +168,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 <div align="center">
 
 <!-- ⚠️ spotify-github-profile.kittinan.com 에서 발급받은 URL로 교체하세요 -->
-[![Spotify](https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=A78BFA&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
+[![Spotify](https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=4C6EF5&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
 
 </div>
 
@@ -199,14 +199,14 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 ### 📫 Contact
 
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://your-blog.tistory.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://satpuru.tistory.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:tjdwns2121@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/성준-이-34024538a)
 
 <br/>
 
 <img src="https://count.getloli.com/get/@djkdb?theme=moebooru" alt="counter" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3b6f,50:12275e,100:0a1128&height=120&section=footer" width="100%" />
 
 </div>
