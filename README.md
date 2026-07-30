@@ -15,7 +15,7 @@
 ## 🌌 About
 
 ```yaml
-name: LEE
+name: ZUN
 role: Software Engineering Student @ 충북대학교 소프트웨어학부 (3학년)
 interests: [AI/ML, Data Engineering, Web Development, IoT]
 currently:
