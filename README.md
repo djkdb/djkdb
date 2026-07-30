@@ -135,7 +135,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 <div align="center">
 
 <!-- ⚠️ YOUR_BOJ_ID 를 백준 아이디로 바꾸세요 -->
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns2121)](https://solved.ac/tjdwns2121)
 
 </div>
 
@@ -165,10 +165,19 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 ## 🎧 Now Playing
 
+> YouTube Music 재생 기록을 Last.fm으로 스크로블해서 표시합니다 (SETUP.md 4번 참고)
+
 <div align="center">
 
-<!-- ⚠️ spotify-github-profile.kittinan.com 에서 발급받은 URL로 교체하세요 -->
-[![Spotify](https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=4C6EF5&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
+<!-- ⚠️ YOUR_LASTFM_ID 를 Last.fm 아이디로 바꾸세요 -->
+<a href="https://www.last.fm/user/satpuru">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=satpuru&count=5&width=400&loved=true" alt="Recently played" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
+<img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" />
 
 </div>
 
