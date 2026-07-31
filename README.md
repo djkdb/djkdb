@@ -150,25 +150,6 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 ---
 
-## 🎧 Now Playing
-
-> YouTube Music 재생 기록을 Last.fm으로 스크로블해서 표시합니다 (SETUP.md 4번 참고)
-
-<div align="center">
-
-<!-- ⚠️ YOUR_LASTFM_ID 를 Last.fm 아이디로 바꾸세요 -->
-<a href="https://www.last.fm/user/satpuru">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=satpuru&count=5&width=400&loved=true" alt="Recently played" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
-<img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" />
-
-</div>
-
----
 
 ## 🏅 Certifications & Activities
 
