@@ -1,0 +1,22 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://satpuru.tistory.com/rss"
+          max_post_count: 5
+          template: "- [$title]($url) &nbsp;·&nbsp; <sub>$date</sub><br/>"
+          date_format: "yyyy.MM.dd"
+          commit_message: "chore: update latest blog posts"
