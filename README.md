@@ -173,11 +173,13 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 ## 🏅 Certifications & Activities
 
 - 📜 **ADsP** (데이터분석 준전문가)
-- 🎓 **2026 Google Student Ambassador** 지원
-- 🌏 **충북 대학생 글로벌 기업탐방** 참여
-- ⚽ **K-League AI 경진대회** 참가
 - 🏢 **모두의 창업** 신속심사 통과 (EV 화재 조기경보 시스템)
-
+- ⚽ **CLASS 축구동아리 회장**
+- 🌐 **CLASS FC Official Website** 프로젝트 기획 및 개발
+- 🤖 AI 기반 **블로그 자동화 시스템** 개발
+- 🛍️ **네이버 쇼핑커넥트 · 쿠팡파트너스 자동 발행 플랫폼** 개발
+- 🚗 **EV-SafePark** (전기차 화재 조기경보 시스템) 프로젝트 개발
+- 
 ---
 
 <div align="center">
@@ -194,5 +196,4 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3b6f,50:12275e,100:0a1128&height=120&section=footer" width="100%" /> 
 
-<img src="https://mc-heads.net/body/bluetoo/200" />
 </div>
