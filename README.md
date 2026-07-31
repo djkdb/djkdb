@@ -132,9 +132,7 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 ## ✍️ Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- 여기는 .github/workflows/blog-posts.yml 이 자동으로 채웁니다 -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [클로드 코드 시작기, 맥스 결제만 하고 막막했던 이유](https://satpuru.tistory.com/entry/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EC%8B%9C%EC%9E%91%EA%B8%B0-%EB%A7%A5%EC%8A%A4-%EA%B2%B0%EC%A0%9C%EB%A7%8C-%ED%95%98%EA%B3%A0-%EB%A7%89%EB%A7%89%ED%96%88%EB%8D%98-%EC%9D%B4%EC%9C%A0) &nbsp;·&nbsp; <sub>2026.42.30</sub><br/>- [Asteron 개발기 #4 | 성능 최적화, 블랙홀같은 깊음](https://satpuru.tistory.com/entry/%F0%9F%AA%A2-Asteron-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B8%94%EB%9E%99%ED%99%80%EA%B0%99%EC%9D%80-%EA%B9%8A%EC%9D%8C) &nbsp;·&nbsp; <sub>2026.24.30</sub><br/>- [️ Asteron 개발기 #3 | 블랙홀과 폭죽, 우주에 색이 입혀지다](https://satpuru.tistory.com/entry/%F0%9F%95%B3%EF%B8%8F-Asteron-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%EB%B8%94%EB%9E%99%ED%99%80%EA%B3%BC-%ED%8F%AD%EC%A3%BD-%EC%9A%B0%EC%A3%BC%EC%97%90-%EC%83%89%EC%9D%B4-%EC%9E%85%ED%98%80%EC%A7%80%EB%8B%A4) &nbsp;·&nbsp; <sub>2026.19.26</sub><br/>- [Asteron 개발기 #2 | 화면이 밤하늘이 되던 날](https://satpuru.tistory.com/entry/%F0%9F%8C%8C-Asteron-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-%ED%99%94%EB%A9%B4%EC%9D%B4-%EB%B0%A4%ED%95%98%EB%8A%98%EC%9D%B4-%EB%90%98%EB%8D%98-%EB%82%A0) &nbsp;·&nbsp; <sub>2026.24.22</sub><br/>- [Asteron 개발기 #1 | Kiro와 함께 시작한 첫 바이브 코딩](https://satpuru.tistory.com/entry/Asteron-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-Kiro%EC%99%80-%ED%95%A8%EA%BB%98-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%B2%AB-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9-%F0%9F%8E%AC%E2%9C%A8) &nbsp;·&nbsp; <sub>2026.18.21</sub><br/><!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 
