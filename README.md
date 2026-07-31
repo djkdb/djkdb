@@ -31,17 +31,6 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 ---
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-![](https://skillicons.dev/icons?i=py,js,java,c,mysql,react,threejs,html,css,tailwind&theme=dark)
-![](https://skillicons.dev/icons?i=nodejs,express,pytorch,tensorflow,git,github,githubactions,figma,notion,vscode&theme=dark)
-
-</div>
-
----
-
 ## 🚀 Projects
 
 <div align="center">
@@ -183,17 +172,6 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 ---
 
-## 📈 Metrics
-
-<div align="center">
-
-<!-- .github/workflows/metrics.yml 이 생성 -->
-<img src="https://raw.githubusercontent.com/djkdb/djkdb/main/github-metrics.svg" width="95%" />
-
-</div>
-
----
-
 ## 🏅 Certifications & Activities
 
 - 📜 **ADsP** (데이터분석 준전문가)
@@ -218,4 +196,5 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3b6f,50:12275e,100:0a1128&height=120&section=footer" width="100%" /> 
 
+<img src="https://mc-heads.net/body/bluetoo/200" />
 </div>
