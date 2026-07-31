@@ -212,10 +212,10 @@ goal: "10년 뒤에도 만들고 싶은 걸 만들 수 있는 개발자"
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:tjdwns2121@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/성준-이-34024538a)
 
-<br/>
+<br/> 
 
-<img src="https://count.getloli.com/get/@djkdb?theme=minecraft&pixelated=1" alt="counter" />
+<img src="https://count.getloli.com/get/@djkdb?theme=minecraft&pixelated=1" alt="counter" /> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3b6f,50:12275e,100:0a1128&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3b6f,50:12275e,100:0a1128&height=120&section=footer" width="100%" /> 
 
 </div>
