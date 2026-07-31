@@ -16,6 +16,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://satpuru.tistory.com/rss"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          accept_header: "*/*"
           max_post_count: 5
           template: "- [$title]($url) &nbsp;·&nbsp; <sub>$date</sub><br/>"
           date_format: "yyyy.MM.dd"
